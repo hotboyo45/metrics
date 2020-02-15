@@ -1,1 +1,9 @@
-166b2418-4fca-11ea-82e4-30d16be3d116
+using System;
+
+class HelloWorld
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello world");
+    }
+}
