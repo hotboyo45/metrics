@@ -1,1 +1,8 @@
-826ef778-4ffa-11ea-b9b3-30d16be3d116
+#import <Foundation/Foundation.h>
+
+int main(int argc, const char * argv[]) {
+    @autoreleasepool {
+        NSLog(@"Hello World!");
+    }
+    return 0;
+}
