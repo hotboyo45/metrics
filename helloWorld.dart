@@ -1,1 +1,1 @@
-c395da68-4fed-11ea-9c46-30d16be3d116
+main() { print('Hello Word'); }
